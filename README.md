@@ -1,4 +1,4 @@
-# restaurants
+# Restaurants
 
 <h4>Editing code with GraphiQL<h4>
 
